@@ -1,0 +1,2 @@
+0 6 * * 0 /root/minecraft/enable_difficulty.sh peaceful >enable.log 2>&1
+0 6 * * 1 /root/minecraft/enable_difficulty.sh easy >enable.log 2>&1
